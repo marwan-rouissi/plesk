@@ -1,0 +1,49 @@
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    background:url(img/IT2.jpg);
+    background-size: cover;
+}
+.Titre {
+    font-size: larger;
+    text-align: center;
+    text-shadow: 2px 5px gray;
+    position: relative;
+    color: whitesmoke;
+}
+.Exp {
+text-indent: 10px
+}
+.Form {
+text-indent: 10px;    
+translate: 200px 0 ;
+}
+.Comp {
+    text-indent: 10px;
+    translate: 400px 0 ;
+}
+.reste {
+    text-align: center;
+    translate: 0 -40px;
+}
+.Foot {
+    translate: -200px -110px;
+    text-align: end;
+    font-size: x-large;
+    text-shadow: 2px 5px rgb(20, 17, 17);
+    position: relative;
+    color: rgb(255, 0, 0)
+
+}
+.git {
+    color: aliceblue;
+}
+img {
+    width: 50px;
+    height: 50px;
+}
+p {
+font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}

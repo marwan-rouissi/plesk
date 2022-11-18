@@ -2,7 +2,7 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: whitesmoke;
-    background:url(img/IT2.jpg);
+    background:url(IT2.jpg);
     background-size: cover;
 }
 .Titre {
@@ -46,4 +46,12 @@ img {
 p {
 font-family: 'Times New Roman', Times, serif;
     color: whitesmoke;
+}
+.Plesk {
+    color: whitesmoke;
+    font-size: larger;
+}
+.site {
+    color: whitesmoke;
+    font-size: larger;
 }
